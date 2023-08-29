@@ -1,34 +1,27 @@
-package ar.edu.unju.fi.practico2.Punto3;
-
-import java.util.ArrayList;
-import java.util.List;
+package ar.edu.unju.fi.practico2.punto3;
 
 public class Main {
-    public static List<String> generateSubstrings(String str) {
-        List<String> substrings = new ArrayList<>();
+	
+    public static double calculateSubstringSum(String str) {
+        int totalSum = 0;
 
-        int n = str.length();
-
-        for (int len = 1; len <= n; len++) {
-            for (int i = 0; i <= n - len; i++) {
-                int j = i + len - 1;
-                substrings.add(str.substring(i, j + 1));
+        for (int i = 0; i < str.length(); i++) {
+            int num = 0;
+            for (int j = i; j < str.length(); j++) {
+                num = num * 10 + (str.charAt(j) - '0');
+                System.out.println(num);
+                totalSum += num%(Math.pow(10,9)+7);
             }
         }
 
-        return substrings;
+        return totalSum;
     }
-	
 
 	public static void main(String[] args) {
-		String input = "123";
-        List<String> substrings = generateSubstrings(input);
+		 String input = "42";
+	        double substringSum = calculateSubstringSum(input);
 
-        System.out.println("Substrings of \"" + input + "\":");
-        for (String substring : substrings) {
-            System.out.println(substring);
-        }
-
+	        System.out.println("Suma : " + substringSum);
 	}
 
 }
