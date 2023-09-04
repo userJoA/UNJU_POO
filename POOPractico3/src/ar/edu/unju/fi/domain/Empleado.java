@@ -15,13 +15,13 @@ public abstract class Empleado {
 	private Integer antiguedad;
 	private Integer cantidadHijos;
 	private Date fechaNacimiento;
-	private Integer sueldoBasico;
+	private double sueldoBasico;
 	
 	
 	
 	
 	public Empleado(Integer legajo, String nombre, Integer antiguedad, Integer cantidadHijos,
-			Date fechaNacimiento, Integer sueldoBasico) {
+			Date fechaNacimiento) {
 		super();
 		nextId++;
 		this.id = this.nextId;
@@ -30,7 +30,7 @@ public abstract class Empleado {
 		this.antiguedad = antiguedad;
 		this.cantidadHijos = cantidadHijos;
 		this.fechaNacimiento = fechaNacimiento;
-		this.sueldoBasico = sueldoBasico;
+		this.sueldoBasico = Constantes.getSueldoBasico();
 	}
 	public Integer getId() {
 		return id;
@@ -68,15 +68,23 @@ public abstract class Empleado {
 	public void setFechaNacimiento(Date fechaNacimiento) {
 		this.fechaNacimiento = fechaNacimiento;
 	}
-	public Integer getSueldoBasico() {
+	public double getSueldoBasico() {
 		return sueldoBasico;
 	}
-	public void setSueldoBasico(Integer sueldoBasico) {
+	public void setSueldoBasico(double sueldoBasico) {
 		this.sueldoBasico = sueldoBasico;
 	}
 	
 	
-
+	@Override
+	public String toString() {
+		return "Empleado [id=" + id + ", legajo=" + legajo + ", nombre=" + nombre + ", antiguedad=" + antiguedad
+				+ ", cantidadHijos=" + cantidadHijos + ", fechaNacimiento=" + fechaNacimiento + ", sueldoBasico="
+				+ sueldoBasico + "]";
+	}
+	
+	
+	
 	
 	
 }
