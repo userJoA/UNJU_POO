@@ -15,7 +15,13 @@ public class Main {
 		EmpleadoManager.listaEmpleadosPorAntiguedad(5);
 
 		//LISTAR EMPLEADOS POR EDAD
-		EmpleadoManager.listarEmpleadosPorEdad(25);
+		EmpleadoManager.listarEmpleadosPorEdad(40);
+		
+		//CALCULAR IMPORTE NETO ACUMULADO POR EDAD
+		EmpleadoManager.calcularImporteNetoAcumulado(40);
+		
+		//AUMENTAR EL SALARIO BASICO DE LOS EMPLEADOS CON ANTIGUEDAD MENOR O IGUAL A 2 AÑOS
+		EmpleadoManager.cambiarSalarioBasico(2);
 	}
 
 }

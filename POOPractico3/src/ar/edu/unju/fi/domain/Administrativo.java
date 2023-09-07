@@ -1,5 +1,6 @@
 package ar.edu.unju.fi.domain;
 
+import java.time.LocalDate;
 import java.util.Date;
 
 
@@ -14,7 +15,7 @@ public class Administrativo extends Empleado{
 	Integer categoria;
 
 	public Administrativo(Integer legajo, String nombre, Integer antiguedad, Integer cantidadHijos,
-			Date fechaNacimiento, Integer categoria) {
+			LocalDate fechaNacimiento, Integer categoria) {
 		super(legajo, nombre, antiguedad, cantidadHijos, fechaNacimiento);
 		this.categoria = categoria;
 	}
@@ -49,8 +50,10 @@ public class Administrativo extends Empleado{
 
 	@Override
 	public String toString() {
-		// TODO Auto-generated method stub
-		return super.toString()+", categoria="+categoria;
+		return super.toString()
+				+ "\n EMPLEADO ADMINISTRATIVO"
+				+ "\n CATEGORIA: "+this.categoria
+				+ "\n SUELDO NETO: " + "$"+ calcularSueldoNeto();
 	}
 	
 

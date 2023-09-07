@@ -1,5 +1,7 @@
 package ar.edu.unju.fi.domain;
 
+import java.time.LocalDate;
+import java.time.Period;
 import java.util.Date;
 
 import ar.edu.unju.fi.util.Constantes;
@@ -12,12 +14,12 @@ public abstract class Empleado {
 	private String nombre;
 	private Integer antiguedad;
 	private Integer cantidadHijos;
-	private Date fechaNacimiento;
+	private LocalDate fechaNacimiento;
 	private double sueldoBasico;
 	
 	
 	public Empleado(Integer legajo, String nombre, Integer antiguedad, Integer cantidadHijos,
-			Date fechaNacimiento) {
+			LocalDate fechaNacimiento) {
 		super();
 		nextId++;
 		this.id = this.nextId;
@@ -58,10 +60,10 @@ public abstract class Empleado {
 	public void setCantidadHijos(Integer cantidadHijos) {
 		this.cantidadHijos = cantidadHijos;
 	}
-	public Date getFechaNacimiento() {
+	public LocalDate getFechaNacimiento() {
 		return fechaNacimiento;
 	}
-	public void setFechaNacimiento(Date fechaNacimiento) {
+	public void setFechaNacimiento(LocalDate fechaNacimiento) {
 		this.fechaNacimiento = fechaNacimiento;
 	}
 	public double getSueldoBasico() {
@@ -73,14 +75,34 @@ public abstract class Empleado {
 	
 	
 	
-	@Override
+	/*@Override
 	public String toString() {
 		return "Empleado [id=" + id + ", legajo=" + legajo + ", nombre=" + nombre + ", antiguedad=" + antiguedad
 				+ ", cantidadHijos=" + cantidadHijos + ", fechaNacimiento=" + fechaNacimiento + ", sueldoNeto="
 				+ calcularSueldoNeto() + "]";
 	}
+	*/
 	
+	public int calcularEdad() {
+		Period periodo;
+		//Calcula el periodo entre la fecha de nacimiento y la fecha actual
+		periodo=Period.between(fechaNacimiento,LocalDate.now());
+		//pasa el periodo a años
+		int edadAnios=periodo.getYears();
+		return edadAnios;
+	}
 
+	@Override
+	public String toString() {
+		return "\n ----------------------------------- \n"
+				+ "\n LEGAJO: " + legajo 
+				+ "\n NOMBRE: " + nombre 
+				+ "\n AÑOS DE ANTIGUEDAD: " + antiguedad 
+				+ "\n CANTIDAD DE HIJOS: "+ cantidadHijos
+				+ "\n FECHA DE NACIMIENTO: "+ fechaNacimiento
+				+ "\n EDAD: "+ calcularEdad();
+	}
+	
 	public double adicionalHijo() {
 		return Constantes.getAdicionalHijo()*this.cantidadHijos;
 	}

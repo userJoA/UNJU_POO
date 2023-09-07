@@ -7,6 +7,7 @@ public class Constantes {
 	private static final double ADICIONAL_HIJO=8000.00;
 	private static final double ADICIONAL_TITULO=80000.00;
 	private static final double PORCENTAJE_DESCUENTO=0.15;
+	private static final double PORCENTAJE_AUMENTO=0.10;
 	
 	
 	public static double getSueldoBasico() {
@@ -27,5 +28,9 @@ public class Constantes {
 	
 	public static double getDescuento() {
 		return PORCENTAJE_DESCUENTO;
+	}
+	
+	public static double getAumento() {
+		return PORCENTAJE_AUMENTO;
 	}
 }
