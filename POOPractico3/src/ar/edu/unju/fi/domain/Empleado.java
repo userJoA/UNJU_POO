@@ -7,8 +7,6 @@ import ar.edu.unju.fi.util.Constantes;
 public abstract class Empleado {
 	private static Integer nextId = 0;
 	
-	
-	
 	private Integer id;
 	private Integer legajo;
 	private String nombre;
@@ -16,8 +14,6 @@ public abstract class Empleado {
 	private Integer cantidadHijos;
 	private Date fechaNacimiento;
 	private double sueldoBasico;
-	
-	
 	
 	
 	public Empleado(Integer legajo, String nombre, Integer antiguedad, Integer cantidadHijos,
@@ -76,15 +72,30 @@ public abstract class Empleado {
 	}
 	
 	
+	
 	@Override
 	public String toString() {
 		return "Empleado [id=" + id + ", legajo=" + legajo + ", nombre=" + nombre + ", antiguedad=" + antiguedad
-				+ ", cantidadHijos=" + cantidadHijos + ", fechaNacimiento=" + fechaNacimiento + ", sueldoBasico="
-				+ sueldoBasico + "]";
+				+ ", cantidadHijos=" + cantidadHijos + ", fechaNacimiento=" + fechaNacimiento + ", sueldoNeto="
+				+ calcularSueldoNeto() + "]";
 	}
 	
+
+	public double adicionalHijo() {
+		return Constantes.getAdicionalHijo()*this.cantidadHijos;
+	}
 	
+	public double adicionalAntiguedad() {
+		return Constantes.getAdicionalAntiguedad()*this.antiguedad;
+	}
 	
+	public double remunerativosBonificables() {
+		return this.sueldoBasico + adicionalAntiguedad();
+	}
 	
+	public double calcularSueldoNeto() {
+		//REMUNERATIVOS BONIFICABLES + SALARIO FAMILIAR - DESCUENTOS
+		return remunerativosBonificables()+adicionalHijo()-remunerativosBonificables()*Constantes.getDescuento();
+	}
 	
 }
