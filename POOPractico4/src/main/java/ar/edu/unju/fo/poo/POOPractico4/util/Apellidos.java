@@ -1,5 +1,0 @@
-package ar.edu.unju.fo.poo.POOPractico4.util;
-
-public enum Apellidos {
-	ALVAREZ,ALARAIO,ANGELO,ASTUDILLO,BENICIO,CRUZ,DARIN,GONZALES,FERNANDEZ,SOTO,SOLIS,ZAPATA
-}

@@ -11,7 +11,7 @@ public class Reserva {
 	private LocalDate fechaSalida;
 	private LocalDate fechaRegreso;
 	private Pasajero pasajero;
-	private Pasajero acomp;
+	private Pasajero acompaniante;
 	private EstadoReserva estado;
 	
 	
@@ -23,7 +23,7 @@ public class Reserva {
 		this.fechaSalida = fechaSalida;
 		this.fechaRegreso = fechaRegreso;
 		this.pasajero = pasajero;
-		this.acomp = acomp;
+		this.acompaniante = acomp;
 		this.estado = estadoReserva;
 	}
 
@@ -79,13 +79,13 @@ public class Reserva {
 	}
 
 
-	public Pasajero getAcomp() {
-		return acomp;
+	public Pasajero getAcompaniante() {
+		return acompaniante;
 	}
 
 
-	public void setAcomp(Pasajero acomp) {
-		this.acomp = acomp;
+	public void setAcompaniante(Pasajero acompaniante) {
+		this.acompaniante = acompaniante;
 	}
 
 

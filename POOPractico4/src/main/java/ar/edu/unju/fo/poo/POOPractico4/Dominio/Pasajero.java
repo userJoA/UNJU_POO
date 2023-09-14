@@ -1,18 +1,17 @@
 package ar.edu.unju.fo.poo.POOPractico4.Dominio;
 
-import ar.edu.unju.fo.poo.POOPractico4.util.Apellidos;
-import ar.edu.unju.fo.poo.POOPractico4.util.Nombres;
+
 
 public class Pasajero {
 	
-	private Nombres nombre;
-	private Apellidos apellido;
-	private String dni;
+	private String nombre;
+	private String apellido;
+	private Integer dni;
 	private Integer telefono;
 	private String correo;
 	
 	
-	public Pasajero(Nombres nombre, Apellidos apellido, String dni, Integer telefono, String correo) {
+	public Pasajero(String nombre,String apellido, Integer dni, Integer telefono, String correo) {
 		super();
 		this.nombre = nombre;
 		this.apellido = apellido;
@@ -22,32 +21,32 @@ public class Pasajero {
 	}
 
 
-	public Nombres getNombre() {
+	public String getNombre() {
 		return nombre;
 	}
 
 
-	public void setNombre(Nombres nombre) {
+	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
 
 
-	public Apellidos getApellido() {
+	public String getApellido() {
 		return apellido;
 	}
 
 
-	public void setApellido(Apellidos apellido) {
+	public void setApellido(String apellido) {
 		this.apellido = apellido;
 	}
 
 
-	public String getDni() {
+	public Integer getDni() {
 		return dni;
 	}
 
 
-	public void setDni(String dni) {
+	public void setDni(Integer dni) {
 		this.dni = dni;
 	}
 
