@@ -70,5 +70,9 @@ public class Pasajero {
 		this.correo = correo;
 	}
 	
-	
+	@Override
+	public String toString() {
+		return "Pasajero [nombre=" + nombre + ", apellido=" + apellido + ", telefono=" + telefono + ", dni=" + dni
+				+ ", email=" + correo + "]";
+	}	
 }
