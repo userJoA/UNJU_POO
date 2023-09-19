@@ -16,7 +16,9 @@ public class listaPasajeros {
 		new Pasajero("Manuel Alejo", "Diaz", 36111654,1234555,"manuelDiaz@gmail.com"),
 		new Pasajero("Andrea Rebecca", "jodorinsky", 43123457,4157755,"andreaJordorinsky@gmail.com"),
 		new Pasajero("Juan Nahuel", "Cortez", 41200852,5712755,"juanCortez@gmail.com"),
-		new Pasajero("Gimena Silvia", "Huxley", 30333987,135555,"gimenaHuxley@gmail.com")
+		new Pasajero("Gimena Silvia", "Huxley", 30333987,135555,"gimenaHuxley@gmail.com"),
+		new Pasajero("Noelia Samanta", "Zielensky", 41300852,5712755,"noeliaZielinsky@gmail.com"),
+		new Pasajero("Ramon Silvio", "Benavidez", 20333987,135555,"ramonBenavidez@gmail.com")
 	  )
 	);
 	

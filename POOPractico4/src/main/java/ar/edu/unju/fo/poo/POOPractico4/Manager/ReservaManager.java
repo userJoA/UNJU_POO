@@ -10,9 +10,17 @@ import ar.edu.unju.fo.poo.POOPractico4.util.EstadoReserva;
 
 
 public class ReservaManager {
-	public static List<Reserva> LISTA_RESERVAS=new ArrayList<Reserva>();
+	private static List<Reserva> LISTA_RESERVAS=new ArrayList<Reserva>();
 	
-	public static void registrarReseravaSA(Reserva reserva) {
+	public static List<Reserva> getlistaReservas(){
+		return LISTA_RESERVAS;
+	}
+	
+	public static void borrarListaReservas() {
+		LISTA_RESERVAS.clear();
+	}
+	
+	public static void registrarReservaSA(Reserva reserva) {
 		LISTA_RESERVAS.add(reserva);
 	}
 	
@@ -20,6 +28,8 @@ public class ReservaManager {
 		reserva.setAcompaniante(acompaniante);
 		LISTA_RESERVAS.add(reserva);
 	}
+	
+	
 	
 	public static Reserva buscarReserva(Integer id) {
 		for(Reserva r:LISTA_RESERVAS) {

@@ -154,12 +154,18 @@ public class Reserva {
 
 	@Override
 	public String toString() {
-		return "Reserva [origen=" + origen + ", destino=" + destino + ", fechaSalida=" + fechaSalida + ", fechaRegreso="
-				+ fechaRegreso + ", pasajero=" + pasajero+ ", estado=" + estado + "]";
+		return  "\n"+
+				"\nReserva nro: "+id + 
+				"\norigen: "+ origen + 
+				"\ndestino: " + destino + 
+				"\nfechaSalida: " + fechaSalida + 
+				"\nfechaRegreso: "+ fechaRegreso + 
+				"\npasajero: " + pasajero+
+				"\nacompaniante: " + acompaniante+
+				"\nestado: " + estado + 
+				"\nClase: "+clase+ 
+				"\n";
 	}
-
-
-
 
 	public Integer getId() {
 		return id;
