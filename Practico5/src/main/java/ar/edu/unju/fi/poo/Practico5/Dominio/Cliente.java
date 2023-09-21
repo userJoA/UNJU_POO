@@ -75,12 +75,21 @@ public class Cliente {
 		this.localidad = localidad;
 	}
 
+	
 	public ArrayList<Compra> getListaCompras() {
 		return listaCompras;
 	}
 
 	public void setListaCompras(ArrayList<Compra> listaCompras) {
 		this.listaCompras = listaCompras;
+	}
+	
+	public void registrarCompra(Compra compra) {
+		this.listaCompras.add(compra);
+	}
+	
+	public String getTipoCliente() {
+		return "";
 	}
 	
 	
