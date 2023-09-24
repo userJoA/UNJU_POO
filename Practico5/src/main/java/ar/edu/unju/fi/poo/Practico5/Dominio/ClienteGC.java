@@ -19,6 +19,15 @@ public class ClienteGC extends Cliente{
 		this.descuento = descuento;
 	}
 
-	
+	@Override
+	public String getTipoCliente() {
+		// TODO Auto-generated method stub
+		return "ClienteGrandesCompras";
+	}
+
+	@Override
+	public String toString() {
+		return super.toString()+ " ClienteGrandesCompras descuento=" + descuento + "]";
+	}
 	
 }

@@ -3,7 +3,7 @@ package ar.edu.unju.fi.poo.Practico5.Dominio;
 import java.time.LocalDate;
 
 public class Compra {
-	private static Integer nextId;
+	private static Integer nextId=0;
 	private Integer id;
 	private LocalDate fecha;
 	private Double importe;

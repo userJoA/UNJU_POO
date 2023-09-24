@@ -18,8 +18,19 @@ public class ClienteCuentaCorriente extends Cliente{
 	public void setLimiteMensualCuenta(double limiteMensualCuenta) {
 		this.limiteMensualCuenta = limiteMensualCuenta;
 	}
+	
+	@Override
+	public String getTipoCliente() {
+		// TODO Auto-generated method stub
+		return "ClienteCuentaCorriente";
+	}
 
+	@Override
+	public String toString() {
+		return super.toString()+ " ClienteCuentaCorriente limiteDeCuenta=" + limiteMensualCuenta + "]";
+	}
 
+	
 
 	
 

@@ -10,10 +10,7 @@ public class Cliente {
 	private String email;
 	private int telefono;
 	private String localidad;
-	private ArrayList<Compra> listaCompras;
-	
-
-	
+	private ArrayList<Compra> listaCompras= new ArrayList<Compra>();
 	
 	public Cliente(Integer dni, String nombre, String email, int telefono, String localidad) {
 		super();
@@ -24,7 +21,7 @@ public class Cliente {
 		this.email = email;
 		this.telefono = telefono;
 		this.localidad = localidad;
-		this.listaCompras=null;
+		
 	}
 
 	public Integer getId() {
@@ -74,7 +71,6 @@ public class Cliente {
 	public void setLocalidad(String localidad) {
 		this.localidad = localidad;
 	}
-
 	
 	public ArrayList<Compra> getListaCompras() {
 		return listaCompras;
@@ -92,5 +88,9 @@ public class Cliente {
 		return "";
 	}
 	
-	
+	@Override
+	public String toString() {
+		return "Cliente [id=" + id + ", nombreCliente=" + nombre + ", dni=" + dni + ", email=" + email
+				+ ", telefono=" + telefono + ", localidad=" + localidad + "]";
+	}
 }
