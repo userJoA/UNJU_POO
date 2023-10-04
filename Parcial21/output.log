@@ -1,0 +1,540 @@
+2023-09-24 00:23:41 INFO  ManagerAfiliado:24 - Id afiliado: 1
+2023-09-24 00:23:41 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-24 00:23:41 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-24 00:23:41 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:23:41 INFO  ManagerAfiliado:24 - Id afiliado: 2
+2023-09-24 00:23:41 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-24 00:23:41 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-24 00:23:41 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:23:41 INFO  ManagerAfiliado:24 - Id afiliado: 3
+2023-09-24 00:23:41 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-24 00:23:41 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-24 00:23:41 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:23:41 INFO  ManagerAfiliado:24 - Id afiliado: 4
+2023-09-24 00:23:41 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-24 00:23:41 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-24 00:23:41 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:23:41 INFO  ManagerAfiliado:24 - Id afiliado: 1
+2023-09-24 00:23:41 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-24 00:23:41 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-24 00:23:41 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:23:41 INFO  ManagerAfiliado:24 - Id afiliado: 2
+2023-09-24 00:23:41 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-24 00:23:41 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-24 00:23:41 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:23:41 INFO  ManagerAfiliado:24 - Id afiliado: 3
+2023-09-24 00:23:41 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-24 00:23:41 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-24 00:23:41 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:23:41 INFO  ManagerAfiliado:24 - Id afiliado: 4
+2023-09-24 00:23:41 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-24 00:23:41 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-24 00:23:41 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:23:57 INFO  ManagerAfiliado:24 - Id afiliado: 1
+2023-09-24 00:23:57 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-24 00:23:57 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-24 00:23:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:23:57 INFO  ManagerAfiliado:24 - Id afiliado: 2
+2023-09-24 00:23:57 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-24 00:23:57 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-24 00:23:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:23:57 INFO  ManagerAfiliado:24 - Id afiliado: 3
+2023-09-24 00:23:57 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-24 00:23:57 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-24 00:23:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:23:57 INFO  ManagerAfiliado:24 - Id afiliado: 4
+2023-09-24 00:23:57 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-24 00:23:57 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-24 00:23:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:23:57 INFO  ManagerAfiliado:24 - Id afiliado: 1
+2023-09-24 00:23:57 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-24 00:23:57 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-24 00:23:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:23:57 INFO  ManagerAfiliado:24 - Id afiliado: 2
+2023-09-24 00:23:57 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-24 00:23:57 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-24 00:23:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:23:57 INFO  ManagerAfiliado:24 - Id afiliado: 3
+2023-09-24 00:23:57 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-24 00:23:57 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-24 00:23:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:23:57 INFO  ManagerAfiliado:24 - Id afiliado: 4
+2023-09-24 00:23:57 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-24 00:23:57 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-24 00:23:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:24:07 INFO  ManagerAfiliado:24 - Id afiliado: 1
+2023-09-24 00:24:07 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-24 00:24:07 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-24 00:24:07 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:24:07 INFO  ManagerAfiliado:24 - Id afiliado: 2
+2023-09-24 00:24:07 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-24 00:24:07 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-24 00:24:07 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:24:07 INFO  ManagerAfiliado:24 - Id afiliado: 3
+2023-09-24 00:24:07 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-24 00:24:07 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-24 00:24:07 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:24:07 INFO  ManagerAfiliado:24 - Id afiliado: 4
+2023-09-24 00:24:07 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-24 00:24:07 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-24 00:24:07 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:24:07 INFO  ManagerAfiliado:24 - Id afiliado: 1
+2023-09-24 00:24:07 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-24 00:24:07 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-24 00:24:07 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:24:07 INFO  ManagerAfiliado:24 - Id afiliado: 2
+2023-09-24 00:24:07 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-24 00:24:07 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-24 00:24:07 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:24:07 INFO  ManagerAfiliado:24 - Id afiliado: 3
+2023-09-24 00:24:07 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-24 00:24:07 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-24 00:24:07 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:24:07 INFO  ManagerAfiliado:24 - Id afiliado: 4
+2023-09-24 00:24:07 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-24 00:24:07 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-24 00:24:07 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:25:43 INFO  ManagerAfiliado:24 - Id afiliado: 1
+2023-09-24 00:25:43 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-24 00:25:43 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-24 00:25:43 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:25:43 INFO  ManagerAfiliado:24 - Id afiliado: 2
+2023-09-24 00:25:43 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-24 00:25:43 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-24 00:25:43 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:25:43 INFO  ManagerAfiliado:24 - Id afiliado: 3
+2023-09-24 00:25:43 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-24 00:25:43 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-24 00:25:43 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:25:43 INFO  ManagerAfiliado:24 - Id afiliado: 4
+2023-09-24 00:25:43 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-24 00:25:43 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-24 00:25:43 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:25:43 INFO  ManagerAfiliado:24 - Id afiliado: 1
+2023-09-24 00:25:43 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-24 00:25:43 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-24 00:25:43 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:25:43 INFO  ManagerAfiliado:24 - Id afiliado: 2
+2023-09-24 00:25:43 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-24 00:25:43 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-24 00:25:43 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:25:43 INFO  ManagerAfiliado:24 - Id afiliado: 3
+2023-09-24 00:25:43 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-24 00:25:43 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-24 00:25:43 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:25:43 INFO  ManagerAfiliado:24 - Id afiliado: 4
+2023-09-24 00:25:43 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-24 00:25:43 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-24 00:25:43 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:25:43 INFO  ManagerAfiliado:24 - Id afiliado: 1
+2023-09-24 00:25:43 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-24 00:25:43 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-24 00:25:43 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:25:43 INFO  ManagerAfiliado:24 - Id afiliado: 2
+2023-09-24 00:25:43 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-24 00:25:43 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-24 00:25:43 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-24 00:25:43 INFO  ManagerAfiliado:24 - Id afiliado: 3
+2023-09-24 00:25:43 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-24 00:25:43 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-24 00:25:43 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-24 00:25:43 INFO  ManagerAfiliado:24 - Id afiliado: 4
+2023-09-24 00:25:43 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-24 00:25:43 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-24 00:25:43 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:47:09 INFO  ManagerAfiliado:24 - Id afiliado: 0001
+2023-09-25 08:47:09 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:47:09 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:47:09 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:47:09 INFO  ManagerAfiliado:24 - Id afiliado: 0002
+2023-09-25 08:47:09 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:47:09 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:47:09 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:47:09 INFO  ManagerAfiliado:24 - Id afiliado: 0003
+2023-09-25 08:47:09 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:47:09 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:47:09 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:47:09 INFO  ManagerAfiliado:24 - Id afiliado: 0004
+2023-09-25 08:47:09 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:47:09 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:47:09 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:47:09 INFO  ManagerAfiliado:24 - Id afiliado: 0001
+2023-09-25 08:47:09 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:47:09 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:47:09 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:47:09 INFO  ManagerAfiliado:24 - Id afiliado: 0002
+2023-09-25 08:47:09 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:47:09 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:47:09 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:47:09 INFO  ManagerAfiliado:24 - Id afiliado: 0003
+2023-09-25 08:47:09 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:47:09 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:47:09 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:47:09 INFO  ManagerAfiliado:24 - Id afiliado: 0004
+2023-09-25 08:47:09 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:47:09 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:47:09 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:47:09 INFO  ManagerAfiliado:24 - Id afiliado: 0001
+2023-09-25 08:47:09 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:47:09 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:47:09 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:47:09 INFO  ManagerAfiliado:24 - Id afiliado: 0002
+2023-09-25 08:47:09 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:47:09 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:47:09 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:47:09 INFO  ManagerAfiliado:24 - Id afiliado: 0003
+2023-09-25 08:47:09 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:47:09 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:47:09 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:47:09 INFO  ManagerAfiliado:24 - Id afiliado: 0004
+2023-09-25 08:47:09 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:47:09 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:47:09 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:49:04 INFO  ManagerAfiliado:24 - Id afiliado: 0-0001
+2023-09-25 08:49:04 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:49:04 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:49:04 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:49:04 INFO  ManagerAfiliado:24 - Id afiliado: 0-0002
+2023-09-25 08:49:04 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:49:04 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:49:04 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:49:04 INFO  ManagerAfiliado:24 - Id afiliado: 0-0003
+2023-09-25 08:49:04 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:49:04 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:49:04 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:49:04 INFO  ManagerAfiliado:24 - Id afiliado: 0-0004
+2023-09-25 08:49:04 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:49:04 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:49:04 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:49:04 INFO  ManagerAfiliado:24 - Id afiliado: 0-0001
+2023-09-25 08:49:04 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:49:04 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:49:04 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:49:04 INFO  ManagerAfiliado:24 - Id afiliado: 0-0002
+2023-09-25 08:49:04 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:49:04 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:49:04 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:49:04 INFO  ManagerAfiliado:24 - Id afiliado: 0-0003
+2023-09-25 08:49:04 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:49:04 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:49:04 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:49:04 INFO  ManagerAfiliado:24 - Id afiliado: 0-0004
+2023-09-25 08:49:04 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:49:04 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:49:04 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:49:04 INFO  ManagerAfiliado:24 - Id afiliado: 0-0001
+2023-09-25 08:49:04 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:49:04 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:49:04 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:49:04 INFO  ManagerAfiliado:24 - Id afiliado: 0-0002
+2023-09-25 08:49:04 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:49:04 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:49:04 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:49:04 INFO  ManagerAfiliado:24 - Id afiliado: 0-0003
+2023-09-25 08:49:04 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:49:04 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:49:04 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:49:04 INFO  ManagerAfiliado:24 - Id afiliado: 0-0004
+2023-09-25 08:49:04 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:49:04 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:49:04 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:49:57 INFO  ManagerAfiliado:24 - Id afiliado: 0-0001
+2023-09-25 08:49:57 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:49:57 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:49:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:49:57 INFO  ManagerAfiliado:24 - Id afiliado: 0-0002
+2023-09-25 08:49:57 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:49:57 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:49:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:49:57 INFO  ManagerAfiliado:24 - Id afiliado: 0-0003
+2023-09-25 08:49:57 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:49:57 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:49:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:49:57 INFO  ManagerAfiliado:24 - Id afiliado: 0-0004
+2023-09-25 08:49:57 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:49:57 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:49:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:49:57 INFO  ManagerAfiliado:24 - Id afiliado: 0-0001
+2023-09-25 08:49:57 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:49:57 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:49:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:49:57 INFO  ManagerAfiliado:24 - Id afiliado: 0-0002
+2023-09-25 08:49:57 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:49:57 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:49:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:49:57 INFO  ManagerAfiliado:24 - Id afiliado: 0-0003
+2023-09-25 08:49:57 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:49:57 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:49:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:49:57 INFO  ManagerAfiliado:24 - Id afiliado: 0-0004
+2023-09-25 08:49:57 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:49:57 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:49:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:49:57 INFO  ManagerAfiliado:24 - Id afiliado: 0-0001
+2023-09-25 08:49:57 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:49:57 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:49:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:49:57 INFO  ManagerAfiliado:24 - Id afiliado: 0-0002
+2023-09-25 08:49:57 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:49:57 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:49:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:49:57 INFO  ManagerAfiliado:24 - Id afiliado: 0-0003
+2023-09-25 08:49:57 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:49:57 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:49:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:49:57 INFO  ManagerAfiliado:24 - Id afiliado: 0-0004
+2023-09-25 08:49:57 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:49:57 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:49:57 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:51:59 INFO  ManagerAfiliado:24 - Id afiliado: 235689-0001
+2023-09-25 08:51:59 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:51:59 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:51:59 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:51:59 INFO  ManagerAfiliado:24 - Id afiliado: 78419-0002
+2023-09-25 08:51:59 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:51:59 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:51:59 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:51:59 INFO  ManagerAfiliado:24 - Id afiliado: 8781-0003
+2023-09-25 08:51:59 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:51:59 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:51:59 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:51:59 INFO  ManagerAfiliado:24 - Id afiliado: 11478-0004
+2023-09-25 08:51:59 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:51:59 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:51:59 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:51:59 INFO  ManagerAfiliado:24 - Id afiliado: 235689-0001
+2023-09-25 08:51:59 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:51:59 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:51:59 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:51:59 INFO  ManagerAfiliado:24 - Id afiliado: 78419-0002
+2023-09-25 08:51:59 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:51:59 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:51:59 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:51:59 INFO  ManagerAfiliado:24 - Id afiliado: 8781-0003
+2023-09-25 08:51:59 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:51:59 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:51:59 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:51:59 INFO  ManagerAfiliado:24 - Id afiliado: 11478-0004
+2023-09-25 08:51:59 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:51:59 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:51:59 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:51:59 INFO  ManagerAfiliado:24 - Id afiliado: 235689-0001
+2023-09-25 08:51:59 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:51:59 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:51:59 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:51:59 INFO  ManagerAfiliado:24 - Id afiliado: 78419-0002
+2023-09-25 08:51:59 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:51:59 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:51:59 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:51:59 INFO  ManagerAfiliado:24 - Id afiliado: 8781-0003
+2023-09-25 08:51:59 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:51:59 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:51:59 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:51:59 INFO  ManagerAfiliado:24 - Id afiliado: 11478-0004
+2023-09-25 08:51:59 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:51:59 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:51:59 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:57:30 INFO  ManagerAfiliado:24 - Id afiliado: 5689-0001
+2023-09-25 08:57:30 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:57:30 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:57:30 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:57:30 INFO  ManagerAfiliado:24 - Id afiliado: 419-0002
+2023-09-25 08:57:30 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:57:30 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:57:30 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:57:30 INFO  ManagerAfiliado:24 - Id afiliado: 81-0003
+2023-09-25 08:57:30 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:57:30 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:57:30 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:57:30 INFO  ManagerAfiliado:24 - Id afiliado: 478-0004
+2023-09-25 08:57:30 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:57:30 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:57:30 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:57:30 INFO  ManagerAfiliado:24 - Id afiliado: 5689-0001
+2023-09-25 08:57:30 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:57:30 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:57:30 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:57:30 INFO  ManagerAfiliado:24 - Id afiliado: 419-0002
+2023-09-25 08:57:30 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:57:30 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:57:30 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:57:30 INFO  ManagerAfiliado:24 - Id afiliado: 81-0003
+2023-09-25 08:57:30 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:57:30 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:57:30 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:57:30 INFO  ManagerAfiliado:24 - Id afiliado: 478-0004
+2023-09-25 08:57:30 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:57:30 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:57:30 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:57:30 INFO  ManagerAfiliado:24 - Id afiliado: 5689-0001
+2023-09-25 08:57:30 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:57:30 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:57:30 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:57:30 INFO  ManagerAfiliado:24 - Id afiliado: 419-0002
+2023-09-25 08:57:30 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:57:30 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:57:30 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:57:30 INFO  ManagerAfiliado:24 - Id afiliado: 81-0003
+2023-09-25 08:57:30 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:57:30 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:57:30 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:57:30 INFO  ManagerAfiliado:24 - Id afiliado: 478-0004
+2023-09-25 08:57:30 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:57:30 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:57:30 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:58:01 INFO  ManagerAfiliado:24 - Id afiliado: 235-0001
+2023-09-25 08:58:01 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:58:01 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:58:01 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:58:01 INFO  ManagerAfiliado:24 - Id afiliado: 784-0002
+2023-09-25 08:58:01 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:58:01 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:58:01 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:58:01 INFO  ManagerAfiliado:24 - Id afiliado: 878-0003
+2023-09-25 08:58:01 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:58:01 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:58:01 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:58:01 INFO  ManagerAfiliado:24 - Id afiliado: 114-0004
+2023-09-25 08:58:01 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:58:01 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:58:01 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:58:02 INFO  ManagerAfiliado:24 - Id afiliado: 235-0001
+2023-09-25 08:58:02 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:58:02 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:58:02 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:58:02 INFO  ManagerAfiliado:24 - Id afiliado: 784-0002
+2023-09-25 08:58:02 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:58:02 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:58:02 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:58:02 INFO  ManagerAfiliado:24 - Id afiliado: 878-0003
+2023-09-25 08:58:02 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:58:02 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:58:02 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:58:02 INFO  ManagerAfiliado:24 - Id afiliado: 114-0004
+2023-09-25 08:58:02 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:58:02 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:58:02 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:58:02 INFO  ManagerAfiliado:24 - Id afiliado: 235-0001
+2023-09-25 08:58:02 INFO  ManagerAfiliado:25 - Nombre afiliado: cachorrao
+2023-09-25 08:58:02 INFO  ManagerAfiliado:26 - DNI afilaido: 235689
+2023-09-25 08:58:02 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:58:02 INFO  ManagerAfiliado:24 - Id afiliado: 784-0002
+2023-09-25 08:58:02 INFO  ManagerAfiliado:25 - Nombre afiliado: messi lionel
+2023-09-25 08:58:02 INFO  ManagerAfiliado:26 - DNI afilaido: 78419
+2023-09-25 08:58:02 INFO  ManagerAfiliado:27 - Tipo de plan: PlanPremium
+
+2023-09-25 08:58:02 INFO  ManagerAfiliado:24 - Id afiliado: 878-0003
+2023-09-25 08:58:02 INFO  ManagerAfiliado:25 - Nombre afiliado: santiago bernabeu
+2023-09-25 08:58:02 INFO  ManagerAfiliado:26 - DNI afilaido: 8781
+2023-09-25 08:58:02 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
+2023-09-25 08:58:02 INFO  ManagerAfiliado:24 - Id afiliado: 114-0004
+2023-09-25 08:58:02 INFO  ManagerAfiliado:25 - Nombre afiliado: miltrass jhon
+2023-09-25 08:58:02 INFO  ManagerAfiliado:26 - DNI afilaido: 11478
+2023-09-25 08:58:02 INFO  ManagerAfiliado:27 - Tipo de plan: PlanBasico
+
