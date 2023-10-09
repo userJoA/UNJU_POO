@@ -6,29 +6,33 @@ public class Visita {
 	private static Integer nextId=0;
 	private Integer id;
 	private String tipoServicio;
-	private String Fabrica;
+	private Fabrica fabrica;
 	private Tecnico tecnico;
 	private LocalDateTime fechaHoraInicial;
 	private LocalDateTime fechaHoraFinal;
 	private int horas;
 	private String DescripcionServicio;
-	private String dispositivo;
+	private Equipo equipo;
 	private String estado;
 	
 	
-	public Visita(String tipoServicio, String fabrica, Tecnico tecnico, LocalDateTime fechaHoraInicial,
-			LocalDateTime fechaHoraFinal, int horas, String descripcionServicio, String dispositivo, String estado) {
+	public Visita() {
 		super();
-		nextId++;
-		this.id = nextId;
+	}
+
+
+	public Visita(String tipoServicio, Fabrica fabrica, Tecnico tecnico, LocalDateTime fechaHoraInicial,
+			LocalDateTime fechaHoraFinal, int horas, String descripcionServicio, Equipo equipo, String estado) {
+		super();
+		this.id = id;
 		this.tipoServicio = tipoServicio;
-		Fabrica = fabrica;
+		this.fabrica = fabrica;
 		this.tecnico = tecnico;
 		this.fechaHoraInicial = fechaHoraInicial;
 		this.fechaHoraFinal = fechaHoraFinal;
 		this.horas = horas;
 		DescripcionServicio = descripcionServicio;
-		this.dispositivo = dispositivo;
+		this.equipo = equipo;
 		this.estado = estado;
 	}
 
@@ -53,13 +57,13 @@ public class Visita {
 	}
 
 
-	public String getFabrica() {
-		return Fabrica;
+	public Fabrica getFabrica() {
+		return fabrica;
 	}
 
 
-	public void setFabrica(String fabrica) {
-		Fabrica = fabrica;
+	public void setFabrica(Fabrica fabrica) {
+		this.fabrica = fabrica;
 	}
 
 
@@ -113,13 +117,13 @@ public class Visita {
 	}
 
 
-	public String getDispositivo() {
-		return dispositivo;
+	public Equipo getEquipo() {
+		return equipo;
 	}
 
 
-	public void setDispositivo(String dispositivo) {
-		this.dispositivo = dispositivo;
+	public void setEquipo(Equipo equipo) {
+		this.equipo = equipo;
 	}
 
 
@@ -135,11 +139,12 @@ public class Visita {
 
 	@Override
 	public String toString() {
-		return "\nTecnico [id=" + id + ", tipoServicio=" + tipoServicio + ", Fabrica=" + Fabrica + ", tecnico=" + tecnico
+		return "Visita [id=" + id + ", tipoServicio=" + tipoServicio + ", fabrica=" + fabrica + ", tecnico=" + tecnico
 				+ ", fechaHoraInicial=" + fechaHoraInicial + ", fechaHoraFinal=" + fechaHoraFinal + ", horas=" + horas
-				+ ", DescripcionServicio=" + DescripcionServicio + ", dispositivo=" + dispositivo + ", estado=" + estado
-				+ "]\n";
+				+ ", DescripcionServicio=" + DescripcionServicio + ", equipo=" + equipo + ", estado=" + estado + "]";
 	}
+	
+	
 	
 	
 }

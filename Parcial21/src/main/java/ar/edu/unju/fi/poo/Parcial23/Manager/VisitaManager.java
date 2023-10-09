@@ -16,7 +16,16 @@ public class VisitaManager {
 		return listaVisitas;
 	}
 	
-	public static void generarVisitas() {
+	public static Visita buscarVisita(Integer idVisita) {
+		Visita vAux=new Visita();
+		for(Visita v:listaVisitas) {
+			if(v.getId()==idVisita) {
+				vAux=v;
+			}
+		}
+		return vAux;
+	}
+	/*public static void generarVisitas() {
 		Tecnico t1=new Tecnico("Matias Name", "Asigado");
 		Tecnico t2=new Tecnico("Omar Estrada", "Asigado");
 		Tecnico t3=new Tecnico("Federico salgado", "Asigado");
@@ -45,8 +54,8 @@ public class VisitaManager {
 		listaVisitas.add(v2);
 		listaVisitas.add(v1);
 	}
-	
-	public static List<Visita> visitaPorFecha(LocalDateTime f1, LocalDateTime f2){
+	*/
+	/*public static List<Visita> visitaPorFecha(LocalDateTime f1, LocalDateTime f2){
 		List<Visita> listAux=new ArrayList<Visita>();
 		for(Visita v:listaVisitas) {
 			if(v.getFechaHoraInicial().isAfter(f1) && v.getFechaHoraInicial().isBefore(f2)) {
@@ -54,26 +63,45 @@ public class VisitaManager {
 			}
 		}
 		return listAux;
+	}*/
+	public static boolean validarFecha(LocalDateTime fInicial,LocalDateTime fFinal) {
+		if(fInicial.isAfter(fFinal)) {
+			return false;
+		}else
+			return true;
+	}
+	
+	public static boolean validarTecnico(Tecnico t,LocalDateTime fInicial,LocalDateTime fFinal) {
+		for(Visita v:listaVisitas) {
+			if(v.getFechaHoraInicial().equals(fInicial)&& v.getFechaHoraFinal().equals(fFinal)) {
+				if(v.getTecnico().getId()==t.getId()) {
+					return false;
+				}
+			}
+		}
+		return true;
 	}
 	
 	public static void registrarVisita(Visita visita) throws Exception{
-		if(visita.getFechaHoraFinal().isBefore(visita.getFechaHoraFinal()))
-			throw new ModelException("La hora final no debe ser inferior a la la hora inicial");
-		List<Visita> listAux=new ArrayList<Visita>();
-		listAux=visitaPorFecha(visita.getFechaHoraInicial(), visita.getFechaHoraFinal());
-		for(Visita v:listAux) {
-			if(v.getTecnico().getId()==visita.getTecnico().getId())
-				throw new ModelException("El Tecnico ya fue asignado");
+		if(!validarTecnico(visita.getTecnico(),visita.getFechaHoraInicial(),visita.getFechaHoraFinal())) {
+			throw new ModelException("El tecnico ya esta asigando a otra visita en la fecha ingresada");
+		}
+		if(!validarFecha(visita.getFechaHoraInicial(),visita.getFechaHoraFinal())) {
+			throw new ModelException("La fecha inicial debe ser anteriori a la fecha final");
 		}
 		listaVisitas.add(visita);
 	}
 	
-	public static void visitasPorTecnico(Tecnico t,LocalDateTime f1,LocalDateTime f2) {
-		List<Visita> listAux=new ArrayList<Visita>();
-		listAux=visitaPorFecha(f1, f2);
-		for(Visita v:listAux) {
-			if(v.getTecnico().getId()==t.getId())
-				System.out.println(v.getFabrica());
+	
+	
+	public static void visitasPorTecnico(Integer idTecnico,LocalDateTime f1,LocalDateTime f2) {
+		
+		for(Visita v:listaVisitas) {
+			if(v.getFechaHoraFinal().isAfter(f1)&&v.getFechaHoraInicial().isBefore(f2)) {
+				if(v.getTecnico().getId()==idTecnico) {
+					System.out.println("Nombre de Empresa: "+v.getFabrica().getNombre());
+				}
+			}
 		}
 	}
 }
